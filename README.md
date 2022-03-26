@@ -45,13 +45,13 @@ We press "enter" to save it to our home directory and press "enter" again for no
 
 ![getting](./images/getting-public-key2.png)
 
-Then we check our public and private keys by running:
+Then we check our public and private keys by running :
 
 `cat id_rsa.pub`
 
 `cat id_rsa`
 
-We copy both keys into our notepad and we can create a directory called '"Shell":
+We copy both keys into our notepad, then we create a directory called '"Shell":
 
 `mkidr Shell`
 
@@ -97,7 +97,7 @@ We insert randon names in it:
 
  `vi onboard.sh`
 
- We change the path that is on the onboard.sh file from from "/root/onboard/id_rsa.pub" to "/home/ubuntu/Shell/id_rsa.pub". To do that we press "/" followed by "/root/onboard/id_rsa.pub" to take us into that line and we replace it with: /home/ubuntu/Shell/id_rsa.pub:
+ We change the path that is on the onboard.sh file from from "/root/onboard/id_rsa.pub" to "/home/ubuntu/Shell/id_rsa.pub". To do that we press "/" then we type: "/root/onboard/id_rsa.pub" to take us into that line and we replace it with: /home/ubuntu/Shell/id_rsa.pub:
 
  ![path](./images/path-not-changed.png)
 
