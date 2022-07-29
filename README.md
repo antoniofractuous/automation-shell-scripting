@@ -27,7 +27,7 @@ We input/paste the following code into it:
 
 Now, we copy our "onboard.sh" file to our EC2 instance:
 
-`scp -i <private-key> -r onboard.sh ubuntu@<ipv4>:~/;`
+`scp -i <private-key> -r onboard.sh ubuntu@<ipv4>:~/`
 
 Then we connect to our EC2 instance:
 
