@@ -1,6 +1,6 @@
 # Shell Scripting
 
-*Demonstration of how to onboard 11 new Linux users into a server. This process will be automated using shell scripts. The source code used on this project was retrieved from darey.io.*
+*Demonstration of how to onboard 11 new Linux users into a server. This process will be automated using shell scripts.*
 
 *Instructions on how to launch and connect to your EC2 instance using an SSH client:*
 
