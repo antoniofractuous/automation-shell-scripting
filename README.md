@@ -6,7 +6,7 @@
 
 https://github.com/Antonio447-cloud/MEAN-stack-angular
 
-    Happy learning!
+    Happy learning
 
 
 ## Onboarding 11 Linux Users into a Server
