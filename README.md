@@ -13,7 +13,7 @@ https://github.com/Antonio447-cloud/MEAN-stack-angular
 
 We will use shell scripts to automate the process of onboarding 11 linux users into a server. We will be doing that by creating a shell script that reads a ".csv file" or "comma-separated values file" that contains the first name of the users to be onboarded.
 
-So, first before launching our EC2 instance we change directories to the same directory where we have our private key (.pem file) and we create a file called "onboard.sh":
+So, before launching our EC2 instance we change directories to the same directory where we have our private key (.pem file) and we create a file called "onboard.sh". In my case the .pem file is located in my Documents directory:
 
 `cd Documents`
 
