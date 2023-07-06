@@ -1,6 +1,6 @@
 # Shell Scripting
 
-*Demonstration of how to onboard 11 new Linux users into a server. This process will be automated using shell scripts.*
+*Demonstration of how to onboard 11 new Linux users into a server. This process will be automated using the "onboard.sh" script located on this repository.*
 
 *Instructions on how to launch and connect to your EC2 instance using an SSH client:*
 
